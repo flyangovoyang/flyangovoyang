@@ -1,4 +1,3 @@
 - 👋 Hi, I’m flyangovoyang.
 - 👀 I’m interested in Natural Language Processing, History, Math, Movies.
-- 🌱 I’m currently working at Bytedance.
 - 📫 reach me at flyangovoyang@163.com.
