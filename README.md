@@ -1,4 +1,4 @@
 - 👋 Hi, I’m flyangovoyang.
-- 👀 I’m interested in NLP(Natural Language Processing), History, Math, Movies, and so on.
-- 🌱 I’m currently learning English.
-- 📫 How to reach me at flyangovoyang@163.com.
+- 👀 I’m interested in Natural Language Processing, History, Math, Movies.
+- 🌱 I’m currently working at Bytedance.
+- 📫 reach me at flyangovoyang@163.com.
