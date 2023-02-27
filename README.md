@@ -1,3 +1,3 @@
 - 👋 Hi, I’m flyangovoyang.
 - 👀 I’m interested in Natural Language Processing, History, Math, Movies.
-- 📫 reach me at flyangovoyang@163.com.
+- 📫 reach me at flyangovoyang@gmail.com.
